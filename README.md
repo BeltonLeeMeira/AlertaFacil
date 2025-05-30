@@ -36,10 +36,6 @@ https://wokwi.com/projects/432410859495840769
 4. Os dados serão recebidos via rede e salvos em dados_enchente.csv
 5. Um gráfico pode ser gerado a partir do arquivo .csv usando o script alerta_enchente_serial.py
 
-## Link do vídeo de explicação
-
-https://youtu.be/hObk9iSALl4
-
 ## Estrutura do Repositório
 
 ```
